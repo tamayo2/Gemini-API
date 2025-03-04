@@ -32,7 +32,6 @@ const Sidebar = () => {
                     <p>Settings</p>
                 </div>
             </div>
-
         </div>
     )
 }
