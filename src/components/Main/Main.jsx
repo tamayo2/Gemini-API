@@ -31,6 +31,11 @@ const Main = () => {
                         <img src={assets.code_icon} alt='compass' />
                     </div>
                 </div>
+                <div className='main-bottom'>
+                    <div className='search-box'>
+                        <input type='text' placeholder='Search' />
+                    </div>
+                </div>
             </div>
         </div>
     )

@@ -61,4 +61,14 @@
     background-color: white;
     border-radius: 20px;
     bottom: 10px;
+    right: 10px;
+}
+
+.main .card p {
+    color: #585858;
+    font-size: 17px;
+}
+
+.main .card:hover {
+    background-color: #dfe4ea;
 }
